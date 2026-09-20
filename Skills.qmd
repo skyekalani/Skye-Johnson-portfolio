@@ -1,0 +1,37 @@
+---
+title: "Skills"
+---
+
+## Programming & Software
+
+-   R
+
+-   SAS
+
+-   Quarto & GitHub
+
+-   GIS online
+
+-   Microsoft Office Suite
+
+## Public Health Methods
+
+-   Epidemiologic study design
+
+-   Data cleaning, management & analysis
+
+-   Statistical Analysis
+
+## Scientific & Technical Communication
+
+-   Conference Presentation
+
+-   Social Media Health Communications
+
+### Quick Links
+
+-   [Learn more about my skills in action](Projects.qmd)
+
+-   [Learn more about my skill acquisition](Experience.qmd)
+
+-   [Get in contact with me](Contact.qmd)

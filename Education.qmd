@@ -1,0 +1,19 @@
+---
+title: "Education"
+---
+
+-   Master of Public Health: Morehouse School of Medicine - Atlanta, GA  - May 2027
+
+    -   GPA: 3.92
+
+    -   2025-2027 Morehouse School of Medicine Coca-Cola Scholarship Recipient
+
+![](images/MSM.jpg){fig-alt="A photo of the Morehouse School of Medicine logo" fig-align="center" width="437"}
+
+-   Bachelor of Science in Public Health, Summa Cum Laude: Jackson State University, Jackson MS  - May 2025
+
+    -   GPA: 3.97
+
+    -   2025 Jackson State University College of Health Sciences Student Marshal
+
+![Inaugural Women to Graduate from JSU with a BsPH](images/JSUGRAD.jpg){fig-alt="A photo of Skye Johnson, an African American women, holding a college degree and student marshal batone after graduation." fig-align="center" width="300"}

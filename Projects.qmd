@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+## GIS Mapping and Spatial Analysis
+
+This project focused on developing an interactive GIS dashboard examining the relationship between HIV rates, social vulnerability, and HIV service availability across Arizona counties. I utilized 2024 HIV rate data, Social Vulnerability Index (SVI) data, HIV service facility locations, and 2020 U.S. Census population data to visualize geographic patterns in HIV burden and access to available services. The dashboard was developed to help identify areas where higher HIV rates and social vulnerability intersect with the availability of HIV services, providing information that can support future public health programming, resource planning, and community partnerships.
+
+View My [GIS Dashboard](https://www.arcgis.com/apps/dashboards/a66186ff4577471295fe6933d4b5a1d8#)
+
+## HIV Clinical Quality Measure Analysis
+
+This project focused on evaluating HIV screening performance among eligible patients at Wellness Equity Alliance (WEA). I integrated appointment and laboratory data from Athena and LabCorp to identify eligible patients, completed HIV screenings, and calculate the organization’s clinical quality measure. The analysis was used to benchmark WEA’s screening performance against HRSA UDS standards and identify opportunities for quality improvement, including workflow integration, patient education, and clinical decision support.
+
+View my [HIV Clinical Quality Measure Report](files/Skye J. HIVCQM_Report_Website.pdf)
+
+## Self-Reported Physical Activity Status and Mental Distress Among Adults in the U.S. 
+
+This project focused on examining the association between self-reported physical activity and mental distress among adults in the United States. I analyzed National Health and Nutrition Examination Survey (NHANES) data from 6,705 adults to assess whether physical activity status was associated with frequent mental distress, defined as 14 or more days of poor mental health within a 30-day period. I cleaned and recoded variables, conducted descriptive analyses, and used multivariable logistic regression in R to adjust for age and race. The analysis identified a significant association between physical activity and lower odds of frequent mental distress.
+
+## Community Assessment for Public Health Emergency Response (CASPER) for Dougherty County, GA
+
+This project was conducted to simulate the assessment of household preparedness for severe weather and flooding in Dougherty County, GA. Using a two-stage cluster sampling design, the assessment collected 196 household responses on emergency preparedness, access to supplies, evacuation planning, emergency communication, and self-reported health needs. Simulated findings were used to develop recommendations focused on emergency preparedness education, resource access, communication strategies, and disaster response planning.
+
+## AHA Cardiovascular Disease Research 
+
+This project examined the association between physical inactivity and cardiovascular disease among the aging population in Mississippi. We utilized quantitative research methods to investigate physical inactivity as a cardiovascular disease risk factor and examine patterns within the study population. Findings were presented at the 2025 American Heart Association Conference in Dallas, Texas, providing an opportunity to communicate research findings to professional and academic audiences.
+
+## Presentations
+
+-   **Johnson, S.**, Payton, M. (2025, April).  The Association Between Physical Inactivity and Cardiovascular Disease in the Aging Population in Mississippi, 2025 American Heart Association Conference, Dallas, Texas. 
+
+-   **Johnson, S.**, Evans, E., Nixon, D. (2024, July).  The Effect of Pesticide Exposure on Pregnancy Development in Mississippi Black Women. 2024 Mississippi INBRE Conference, Starkville, Mississippi. 

@@ -1,0 +1,35 @@
+---
+title: ""
+about:
+  template: jolla
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/skyekalani
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/skye-johnson-0a18a8208/
+---
+
+```{=html}
+<video autoplay muted loop playsinline
+       style="width: 100%; max-height: 350px; object-fit: cover; display: block; border: none;">
+  <source src="FINALH.mp4" type="video/mp4">
+</video>
+```
+
+# Skye K. Johnson, BsPH
+
+## Public Health Scholar \| Aspiring Epidemiologist 
+
+![](images/Headshot.png){fig-alt="Photo of Skye Johnson, an African American women with long black hair,  a black blazer and white blouse with three bows going down, and a grey background." fig-align="center" width="300"}
+
+It is nice to meet you! I am a Master of Public Health student with interest in epidemiology, environmental health, health equity, and data science. My work focuses on examining population health patterns through data to inform public health decision-making and health outcomes.
+
+### Quick Links
+
+-   [Learn More About Me](about.qmd)
+
+-   [Learn More About my Experience](Experience.qmd)
+
+-   [Get in Contact With Me](Contact.qmd)

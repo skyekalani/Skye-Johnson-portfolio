@@ -1,0 +1,147 @@
+/* css styles */
+
+
+/*base document styles */
+
+body {
+  font-family: "Trebuchet MS", "Segoe UI","Helvetica Neue", Arial, Sans-Serif;
+  line-height: 1.6;
+  background-color: #FFE7E9;
+  color: #152238;
+}
+
+/*Headings*/
+
+h1 {
+  color: #3B4E7A;
+  font-size: 2.5em;
+  margin-bottom: 2px solid #CC7CA0;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  color: #3B4E7A;
+  font-size: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+
+h3 {
+  color: #E88782;
+  font-size: 1.5em;
+  margin-top: 2px solid #4B79B5;
+}
+
+h4{
+  color: #4B79B5;
+  font-size: 1.25em;
+  margin-top: 1em;
+}
+
+h5 {
+ color: #6E689C;
+  font-size: 1.1em;
+  margin-top: 0.8em;
+}
+h6 {
+  color: #3B4E7A;
+  font-size: 1em;
+  margin-top: 0.8em;
+}
+
+/*Links*/
+
+a {
+  color:#6E689C ;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a:hover {
+  border-bottom-color: #FCA482;
+}
+
+/*Paragraphs and Spacing*/
+p {
+  margin-bottom: 1.5em;
+  text-align: justify;
+}
+
+/*Navigation Bar*/
+
+.navbar {
+  background-color: #4B79B5;
+  border-bottom: 3px solid #FCA482;
+}
+.nav-tabs {
+  border-bottom: 2px solid #CC7CA0;
+  margin-bottom: 1em;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+  color: #3B4E7A;
+  padding: 0.5em 1em;
+  margin-right: 0.5em;
+}
+
+.nav-tabs .nav-link.active {
+  color: #CC7CA0;
+  border-bottom: 2px solid #CC7CA0;
+}
+
+.nav-tabs .nav-link:hover {
+  color: #E88782;
+  border-bottom: 2px solid #E88782;
+}
+
+/* Dropdown Menu */
+
+.navbar .dropdown-menu {
+  background-color: #FFF8E7;
+  border: 1px solid #6E689C;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  color: #3B4E7A;
+  background-color: #FFF8E7;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus {
+  color: #FFF8E7;
+  background-color: #CC7CA0;
+}
+
+.navbar .dropdown-menu .dropdown-item.active,
+.navbar .dropdown-menu .dropdown-item:active {
+  color: #3B4E7A;
+  background-color: #FCA482;
+}
+
+/* Main Navigation Hover */
+
+.navbar .nav-link:hover {
+  color: #FCA482;
+}
+
+.navbar .nav-link:focus {
+  color: #CC7CA0;
+}
+
+/* On this page - remove Quarto/Bootstrap blue */
+
+nav#TOC a.nav-link {
+  color: #3B4E7A;
+}
+
+nav#TOC a.nav-link:hover {
+  color: #E88782;
+}
+
+nav#TOC a.nav-link.active {
+  color: #CC7CA0;
+  border-left-color: #CC7CA0;
+}

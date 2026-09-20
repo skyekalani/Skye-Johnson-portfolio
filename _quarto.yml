@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Skye K. Johnson, BsPH"
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: about.qmd
+      text: About Me
+    - href: Education.qmd
+      text: Education
+    - href: Experience.qmd
+      text: Experience
+    - href: Skills.qmd
+      text: Skills
+    - href: Projects.qmd
+      text: Projects
+    - href: CV.qmd
+      text: CV
+    - href: Contact.qmd
+      text: Contact
+
+format:
+  html:
+    css: styles.css
+    toc: true
+
+editor: visual
+

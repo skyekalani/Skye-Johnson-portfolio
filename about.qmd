@@ -1,0 +1,23 @@
+---
+title: "About Me"
+---
+
+![](images/aboutme.jpg){alt="Inaugural Women to Graduate from JSU with a BsPH" fig-alt="A headshot photo of Skye Johnson, an African American women with curly black and brown hair, a black blouse and blue blazer." fig-align="center" width="250"}
+
+## Professional Biography
+
+Graduate of Jackson State University with a Bachelor of Science in Public Health, currently pursuing a Master's in Public Health with a focus on Epidemiology at Morehouse School of Medicine. I currently serve as an MSM GEPH Peer Tutor in Epidemiology and Environmental Health. I also serve as the 2026-2027 MSM GEPH Community Outreach Chair.\
+\
+My experience includes epidemiologic research, community health assessment, public health informatics, and data analysis using R, SAS, and GIS. I have contributed to research examining cardiovascular disease, pesticide exposure and pregnancy outcomes, and community disaster preparedness.
+
+I am passionate about using data-driven insights to understand environmental and social determinants of health and to use those understandings to advocate for and empower the health of communities.
+
+## Interests
+
+My professional interests include social and environmental epidemiology, maternal health, underserved and rural communities, data science, and chronic disease.
+
+## Professional Goals
+
+As an aspiring Environmental Epidemiologist, I aim use data and statistical analyses to educate populations about environmental factors affecting health and to develop policies that help reduce environmental impacts on human health. I am passionate about ensuring that underserved communities are heard and treated not just as statistics but as partners in public health solutions. My ultimate goal is to build outreach in underserved communities to promote health equity and awareness among minority populations. My ultimate goal is to be a change agent for communities experiencing disproportionate health outcomes.
+
+To reach these goals, I am currently seeking public health internships and fellowships in environmental health, data science, epidemiological analysis, and project management.
