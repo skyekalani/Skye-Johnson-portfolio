@@ -42,7 +42,7 @@ title: "Experience"
 
 # Leadership Experience
 
-## **Community Outreach Chair** 
+## **Community Outreach Chair**
 
 **MSM MPH Student Government Association: August 2025 - Present**
 
@@ -50,7 +50,7 @@ title: "Experience"
 
     ![](images/IMG_6540.jpeg){alt="Inaugural Women to Graduate from JSU with a BsPH" fig-alt="Photo of Skye Johnson with 6 others facilitating a sexual health awareness community engagement event." fig-align="center" width="300"}
 
-## **Election Committee Representative** 
+## **Election Committee Representative**
 
 **MSM Student Government Association: March 2026 – May 2026**
 
@@ -71,4 +71,3 @@ title: "Experience"
     ![](images/LE.JPG){alt="Inaugural Women to Graduate from JSU with a BsPH" fig-alt="Photo of Skye Johnson, an African American women and 2 others participating in picking up trash around the Jackson State University campus." fig-align="center" width="250"}
 
 ## 
-

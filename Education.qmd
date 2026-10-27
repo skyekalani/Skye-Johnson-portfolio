@@ -2,7 +2,7 @@
 title: "Education"
 ---
 
--   Master of Public Health: Morehouse School of Medicine - Atlanta, GA  - May 2027
+-   Master of Public Health: Morehouse School of Medicine - Atlanta, GA - May 2027
 
     -   GPA: 3.92
 
@@ -10,7 +10,7 @@ title: "Education"
 
 ![](images/MSM.jpg){fig-alt="A photo of the Morehouse School of Medicine logo" fig-align="center" width="437"}
 
--   Bachelor of Science in Public Health, Summa Cum Laude: Jackson State University, Jackson MS  - May 2025
+-   Bachelor of Science in Public Health, Summa Cum Laude: Jackson State University, Jackson MS - May 2025
 
     -   GPA: 3.97
 

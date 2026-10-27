@@ -20,7 +20,7 @@ about:
 
 # Skye K. Johnson, BsPH
 
-## Public Health Scholar \| Aspiring Epidemiologist 
+## Public Health Scholar \| Aspiring Epidemiologist
 
 ![](images/Headshot.png){fig-alt="Photo of Skye Johnson, an African American women with long black hair,  a black blazer and white blouse with three bows going down, and a grey background." fig-align="center" width="300"}
 
