@@ -2,6 +2,20 @@
 title: "Projects"
 ---
 
+## Interactive Trend Analysis: 2007 Mean Life Expectancy Across Continents using Gapminder Data
+
+```{=html}
+<iframe
+       src="files/interactive_trend.html" 
+       style="width: 105%; border: none; height: 600px">
+</iframe>
+```
+
+
+Navigation Instructions: Hover over individual data points to view the continent, year, and mean life expectancy. Use the different colored lines to compare trends across continents and explore changes over time. Click and drag to zoom in on specific sections of the graph, and double-click to reset the view.
+
+![Static Alternative](images/static_figure.png)
+
 ## GIS Mapping and Spatial Analysis
 
 This project focused on developing an interactive GIS dashboard examining the relationship between HIV rates, social vulnerability, and HIV service availability across Arizona counties. I utilized 2024 HIV rate data, Social Vulnerability Index (SVI) data, HIV service facility locations, and 2020 U.S. Census population data to visualize geographic patterns in HIV burden and access to available services. The dashboard was developed to help identify areas where higher HIV rates and social vulnerability intersect with the availability of HIV services, providing information that can support future public health programming, resource planning, and community partnerships.
